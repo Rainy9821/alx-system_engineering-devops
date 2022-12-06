@@ -1,1 +1,1 @@
-102-acrostic
+18-letteronly
